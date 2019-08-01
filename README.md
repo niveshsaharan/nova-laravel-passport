@@ -2,7 +2,7 @@
 
 A custom tool to manage Passport API keys in Nova
 
-![preview](thumbnail.jpg)
+![preview](thumbnail.png)
 
 ## Installation
 
